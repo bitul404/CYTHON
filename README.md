@@ -3,4 +3,4 @@
 
 
 # COMMANDS 
-',' pkg install git
+ pkg install git
