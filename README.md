@@ -1,6 +1,8 @@
 # CYTHON
 HI FRIENDS NAW YOU CAN ENCODE CYTHON BY MR BITUL
 
+![Screenshot_20230704-000238](https://github.com/bitul404/CYTHON/assets/105690756/68186917-e95f-41be-a20c-4ecbcf692fd7)
+
 
 # 𝐌𝐑 𝐁𝐢𝐭𝐮𝐥 𝐒𝐞𝐭𝐭𝐢𝐧𝐠 𝐔𝐩 𝐒𝐭𝐨𝐫𝐚𝐠𝐞 
 - `pkg update -y`
